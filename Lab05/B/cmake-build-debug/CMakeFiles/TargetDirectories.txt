@@ -1,0 +1,3 @@
+/home/lerrorgk/桌面/CodeField/DSAA/Lab05/B/cmake-build-debug/CMakeFiles/B.dir
+/home/lerrorgk/桌面/CodeField/DSAA/Lab05/B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lerrorgk/桌面/CodeField/DSAA/Lab05/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir

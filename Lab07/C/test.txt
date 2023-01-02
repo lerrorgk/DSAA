@@ -1,0 +1,43 @@
+    int tt = N;
+    for(int i = 1; i <= N; i++){
+        for(int j = 1; j <= N; j++){
+            cout << nodes[j]->val << " ";
+        }
+        cout << endl;
+        for(int j = 1; j <= N; j++){
+            cout << nodes[j]->index << " ";
+        }
+        cout << endl;
+        for(int j = 1; j <= N; j++){
+            cout << nodes[j]->position << " ";
+        }
+        cout << endl;
+        cout << nodes[1]->val << " " << nodes[1]->index <<  " " << nodes[1]->position << endl;
+        swap(nodes[1]->position, nodes[tt]->position);
+        swap(nodes[1], nodes[tt]);
+        tt--;
+        down(nodes, 1, tt);
+    }
+
+
+            cout << tmp2->val << " " << tmp2->index << " " << tmp2->position << endl << endl;
+
+
+        for(int j = 1; j <= tt; j++){
+            cout << nodes[j]->val << " ";
+        }
+        cout << endl;
+        for(int j = 1; j <= tt; j++){
+            cout << nodes[j]->index << " ";
+        }
+        cout << endl;
+        for(int j = 1; j <= tt; j++){
+            cout << nodes[j]->weight << " ";
+        }
+        cout << endl;
+        for(int j = 1; j <= tt; j++){
+            cout << nodes[j]->position << " ";
+        }
+        cout << endl << endl;
+9
+2 1 3 5 0 2 8 4 2

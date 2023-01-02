@@ -1,0 +1,3 @@
+/home/lerrorgk/Desktop/CodeField/DSAA/BonusLab/A/cmake-build-debug/CMakeFiles/A.dir
+/home/lerrorgk/Desktop/CodeField/DSAA/BonusLab/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lerrorgk/Desktop/CodeField/DSAA/BonusLab/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
